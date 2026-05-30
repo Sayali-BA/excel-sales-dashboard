@@ -1,10 +1,23 @@
-# excel-sales-dashboard
-Interactive Excel sales dashboard using Pivot Tables, Pivot Charts and slicers to analyse sales performance.
-# Excel Sales Dashboard
+# 📊 Excel Sales Dashboard
 
-## Project Overview
+## Project Summary
 
-This project is an interactive Excel Sales Dashboard created to analyse sales performance using Pivot Tables, Pivot Charts and dashboard visuals. The dashboard helps users understand sales trends, product performance, customer segments and regional performance in a clear and simple way.
+This project demonstrates how Microsoft Excel can be used to transform raw sales data into actionable business insights through interactive dashboards, Pivot Tables, Pivot Charts, and slicers.
+
+The dashboard enables users to monitor sales performance, identify trends, compare categories, and support data-driven decision making.
+
+## Business Problem
+
+Businesses often collect large volumes of sales data but struggle to convert it into meaningful information. This dashboard was developed to provide a clear visual overview of sales performance and highlight key trends that can support strategic decisions.
+
+## Key Features
+
+* Interactive dashboard with slicers
+* Monthly sales trend analysis
+* Category performance analysis
+* Regional sales analysis
+* KPI monitoring
+* Dynamic Pivot Tables and Charts
 
 ## Tools Used
 
@@ -13,33 +26,13 @@ This project is an interactive Excel Sales Dashboard created to analyse sales pe
 * Pivot Charts
 * Slicers
 * Data Cleaning
-* Dashboard Design
-
-## Key Features
-
-* Sales performance summary
-* Category-wise and region-wise analysis
-* Monthly sales and quantity trends
-* Interactive filters/slicers
-* Visual dashboard for quick business insights
-
-## Business Purpose
-
-The aim of this dashboard is to turn raw sales data into meaningful insights. It can help business users monitor performance, identify high-performing areas, understand customer behaviour and support better decision-making.
+* Data Visualisation
 
 ## Skills Demonstrated
 
-* Data analysis in Excel
-* Pivot table reporting
-* Dashboard creation
-* Business insight generation
-* Data visualisation
-* Analytical thinking
-
-## File Included
-
-* `Dashboard.xlsx` – Excel dashboard file with pivot reports and dashboard visuals.
-
-## About This Project
-
-This project is part of my data analytics portfolio, created to demonstrate my ability to analyse data, build reports and present insights in a business-friendly format.
+* Data Analysis
+* Business Intelligence
+* Dashboard Development
+* Data Visualisation
+* Reporting
+* Problem Solving

@@ -1,5 +1,5 @@
 # excel-sales-dashboard
-Interactive Excel sales dashboard using Pivot Tables, Pivot Charts and slicers.
+Interactive Excel sales dashboard using Pivot Tables, Pivot Charts and slicers to analyse sales performance.
 # Excel Sales Dashboard
 
 ## Project Overview
